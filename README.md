@@ -50,6 +50,6 @@ The service will be accessible at http://localhost:8080. I used postman to acces
 - GET /receipts/{id}/points: Retrieve the calculated points for a receipt by its ID.
     ```sh
     {
-      "points": 56
+      "points": 55
     }
     ```
